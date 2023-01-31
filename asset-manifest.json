@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/itunes-react/static/css/main.54c4c6ba.css",
+    "main.js": "/itunes-react/static/js/main.8d888714.js",
+    "index.html": "/itunes-react/index.html",
+    "main.54c4c6ba.css.map": "/itunes-react/static/css/main.54c4c6ba.css.map",
+    "main.8d888714.js.map": "/itunes-react/static/js/main.8d888714.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54c4c6ba.css",
+    "static/js/main.8d888714.js"
+  ]
+}
